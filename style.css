@@ -52,8 +52,8 @@
 {
     margin: 0%;
     position: relative;
-    left: 3%;
-    padding-top: 0%;
+    left: 10px;
+    top: 0px;
 }
 .servidores-color{
     -webkit-text-fill-color: azure;
