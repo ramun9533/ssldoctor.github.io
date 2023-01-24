@@ -50,3 +50,10 @@ margin: 1px;
   padding: 2px;
   margin: 0px;
 }
+.per{
+  width: 205px;
+  height: 205px;
+  position:relative;
+  top: 50px;
+  left: 390px;
+}
